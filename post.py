@@ -17,5 +17,3 @@ class Post:
                 self.post_subtitle = post["subtitle"]
                 self.post_content = post["body"]
 
-
-post = Post(id)
